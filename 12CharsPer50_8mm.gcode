@@ -1,0 +1,64 @@
+;A
+;GO TO Z SAFE HEIGHT
+G0 Z15
+;GO TO ZERO
+G0 X0Y0
+;SPINDLE ON
+M3 S10000
+;PEN DOWN
+G1 Z1.0 F100
+;FIRST STROKE
+G1 X2.0105 Y12.7 F100
+;SECOND STROKE
+G1 X
+;B
+
+;C
+
+;D
+
+;E
+
+;F
+
+;G
+
+;H
+
+;I
+
+;J
+
+;K
+
+;L
+
+;M
+
+;N
+
+;O
+
+;P
+
+;Q
+
+;R
+
+;S
+
+;T
+
+;U
+
+;V
+
+;W
+
+;X
+
+;Y
+
+;Z
+
+;-
